@@ -14,4 +14,4 @@ ENTRYPOINT [ "/app" ]
 
 
 # docker build -t kafka-client-go .
-# docker run kafka-client-go 
+# docker run -it kafka-client-go 
